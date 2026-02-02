@@ -4,3 +4,4 @@ https://polyhaven.com/a/industrial_wall_sconce
 https://polyhaven.com/a/dry_riverbed_rock
 https://polyhaven.com/a/rocks_ground_01
 https://polyhaven.com/a/concrete_cat_statue
+https://polyhaven.com/a/wooden_axe_02
